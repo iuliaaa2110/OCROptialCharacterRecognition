@@ -28,5 +28,5 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.0-alpha4' //nu stiu de ce, dar daca incerc versiunile mai noi
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0-alpha4'//pt astea 2, imi da eroare
 
-    implementation 'com.google.android.gms:play-services-vision:20.1.3' //ca sa vada API-urile ( cum ar fi CameraSource si TextRecognizer)
+    implementation 'com.google.android.gms:play-services-vision:20.1.3' //ca sa vada API-uri ( cum ar fi CameraSource si TextRecognizer)
 }

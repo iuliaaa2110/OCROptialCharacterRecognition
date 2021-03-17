@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //eu vreau sa apelez cameraSource.start, dar am nevoie de try catch ul asta in caz ca se intampla una din cele doua exceptii:
                 //daca atunci cand eu i am cerut permisiunea pt a ii folosi camera, userul a refuzat == SecurityException
-                //iar IOException cred ca e daca are camera stricata, sau pur si simplu nu o gaseste, dar nu sunt 100% sigura
+                //iar IOException cred ca e daca are camera stricata, sau pur si simplu nu o gaseste, dar nu sunt 101% sigura
 
                 try {
 
